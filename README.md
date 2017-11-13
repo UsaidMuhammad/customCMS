@@ -3,6 +3,6 @@
 
 Project Abbandend due to building intrust in JavaScript.
 
-~~A Custom CMS in PHP with Codeigniter 
+~~A Custom CMS in PHP with Codeigniter~~
 
-create a database called webecms and import the included database file~~
+~~create a database called webecms and import the included database file~~
