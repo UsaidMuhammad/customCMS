@@ -1,7 +1,7 @@
 
 # customCMS
 
-Project Abbandend due to building intrust in JavaScript.
+Project Abbandend due to building interest in JavaScript.
 
 ~~A Custom CMS in PHP with Codeigniter~~
 
